@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-modal {
+  background-color: rgba(203, 213, 225, .8);
+}
